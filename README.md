@@ -4,7 +4,7 @@ Automated monthly sales trend analysis in Excel, improving reporting efficiency.
 📊 Sales Forecasting Dashboard (Excel Project)
 This dashboard analyzes sales data to provide monthly trend reports and accurate sales forecasts.
 
-🔗 View Excel Dashboard (OneDrive link)
+🔗 View Excel Dashboard (https://1drv.ms/x/c/7137f9de6fb8dd62/EUxBoIvWXsFFp8VNIb5-QeUBhoKiYPUHMVepnJllor7Kvw?e=AWx8TZ)
 
 Features:
 
