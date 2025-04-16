@@ -1,6 +1,23 @@
 # Sales-Analysis-Excel
 Automated monthly sales trend analysis in Excel, improving reporting efficiency.
 
+📊 Sales Forecasting Dashboard (Excel Project)
+This dashboard analyzes sales data to provide monthly trend reports and accurate sales forecasts.
+
+🔗 View Excel Dashboard (OneDrive link)
+
+Features:
+
+Automated monthly trend analysis using Excel functions
+
+Forecasting based on historical data
+
+Improves reporting efficiency for business teams
+
+Helps in data-driven marketing decisions
+
+
+
 
 # Sales Analysis and Forecasting Dashboard
 
@@ -30,4 +47,4 @@ The project aims to help businesses enhance decision-making by forecasting futur
 If you're interested in running the project locally:
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone  https://github.com/Afzal-Nezam/Sales-Analysis-Excel/tree/main
